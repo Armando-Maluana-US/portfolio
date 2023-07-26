@@ -8,14 +8,26 @@
 - B.S., Finance, Supply Chain Management Minor, BRIGHAM YOUNG UNIVERSITY ID, GPA 3.62, 2013
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Sr. Business Systems Consultant | HAVEN HEALTH GROUP, Health Group Management, Gilbert, AZ |2022 – Present**
+- Spearheaded cross-functional initiatives, liaising between business and technology partners, to develop solutions aligned with product vision and roadmap.
+- Led process re-engineering efforts, resulting in improved efficiencies and significant cost savings.
+- Managed a team of finance professionals, successfully implementing new workflows for AR, HR Recruiting, Vendor Approval, Asset Management, and more.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Sr. Treasury Analyst | HAVEN HEALTH GROUP, Health Group Management, Gilbert, AZ | 2017 – 2022**
+- Monitored daily cash disbursements and bank account administration, ensuring compliance with financial regulations.
+- Developed financial valuation models, leading to a $350k annual reduction in interest expenses.
+- Positioned the company for ongoing growth and profitability by advising the Controller to open reserves bank accounts for emergencies and capital expenditures.
 
+**Security & Lending | GOLDMAN SACHS, Salt Lake City, UT | 2015 – 2016**
+- Partnered with Traders and counterparties to execute daily trades through DTC-US and CDS-Canada Depositories.
+- Cut call volume 30 minutes prior to market close and reduced daily fails 20% by shifting clients to an automated vendor system.
+- Led conversion and delivery of multi-billion dollars in shares for Accelerated Share Repurchase agreements.
+
+**Core Inventory Management | GOLDMAN SACHS, Salt Lake City, UT | 2014 – 2015**
+- Reduced turnaround time of Deposit and Withdrawal at Custodian (DWAC) processes by 33% by migrating to Euroclear Bank.
+- Saved traders' time and expense by developing a web-based reporting system allowing managers to see and address escalations easily.
+- Led conversion and delivery of multi-billion dollars in shares for Accelerated Share Repurchase agreements.
+  
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
