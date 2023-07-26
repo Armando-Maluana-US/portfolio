@@ -2,4 +2,5 @@ title: Armando Maluana
 logo: /assets/img/headshot_circle.png
 #description: I'm a passionate data enthusiast and aspiring data scientist with expertise in SQL, R programming, and Python
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: minima
+#theme: jekyll-theme-minimal
