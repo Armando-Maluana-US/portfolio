@@ -2,10 +2,9 @@
 
 #### Technical Skills: Data Science, SQL, R Programming, Python, Data Analysis, Machine Learning, Data Visualization,and Git and Version Control
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Information Systems Management| Arizona State University W.P. Carey School of Businses (_December 2019_)	 			        		
-- B.S., Finance | Brighan Young University ID (_Dec 2013_)
+## Education					       		
+- M.S., Information Systems Management Arizona State University W.P. Carey School of Business (July 2022)	 			        		
+- B.S., Finance Brighan Young University ID (_Dec 2013_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
