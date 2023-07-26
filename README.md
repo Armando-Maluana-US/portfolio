@@ -3,7 +3,8 @@
 #### Technical Skills: Data Science, SQL, R Programming, Python, Data Analysis, Machine Learning, Data Visualization, and Git and Version Control
 
 ## Education					       		
-- M.S., Information Systems Management, Cloud Computing, ARIZONA STATE UNIVERSITY W. P. CAREY SCHOOL OF BUSINESS, GPA 3.63, 2022		        		
+- M.S., Information Systems Management, Cloud Computing, ARIZONA STATE UNIVERSITY W. P. CAREY SCHOOL OF BUSINESS, GPA 3.63, 2022
+           		
 - B.S., Finance, Supply Chain Management Minor, BRIGHAM YOUNG UNIVERSITY ID, GPA 3.62, 2013
 
 ## Work Experience
